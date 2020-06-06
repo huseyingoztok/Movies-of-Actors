@@ -1,0 +1,20 @@
+.movie-details {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  position: absolute !important;
+  right: 5px;
+  float: right;
+  display: block;
+}
+.movie-details img {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  position: relative;
+}
+
+.movie-details h1 {
+  text-align: center;
+}

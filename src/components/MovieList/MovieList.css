@@ -1,0 +1,6 @@
+.moviesList {
+  overflow-y: scroll;
+  height: 80%;
+  position: absolute !important;
+  margin-left: 24%;
+}

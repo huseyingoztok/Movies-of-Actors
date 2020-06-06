@@ -1,0 +1,5 @@
+.actorList {
+  overflow-y: scroll;
+  height: 80%;
+  position: absolute !important;
+}
