@@ -9,7 +9,7 @@ import Spinner from "../UI/Spinner/Spinner";
 import MoviesError from "../MoviesError/MoviesError";
 
 const url = "https://api.themoviedb.org/3/";
-const apiKey = "ec99c295cac7fd53d7bbfea3e7204759";
+const apiKey = "your-api-key";
 const actorNotFound = "Actor/Actress cannot be found. Please try another search..";
 const moviesNotFound = "Movies of actor/actress cannot be found.";
 
