@@ -9,7 +9,7 @@ const MovieDetails = props => {
     const imagePath = formImageUrl(movie.poster_path);
 
     return (
-        <div className="movie-details col-md-6">
+        <div className="movieDetails col-md-6">
             <div className="row">
                 <div className="col-md-12">
                     <h1>

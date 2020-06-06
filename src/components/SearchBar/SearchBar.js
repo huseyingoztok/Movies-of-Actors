@@ -22,7 +22,7 @@ class SearchBar extends Component {
         return (
             <div className="row">
                 <div className="col-md-6 offset-md-4">
-                    <div className="search-bar">
+                    <div className="searchBar">
                         <input
                             value={this.state.searchTerm}
                             onChange={this.inputChangedHandler}
